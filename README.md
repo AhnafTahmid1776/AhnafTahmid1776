@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about web development
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My mom is HP and my girl is linux of my life <3 
+- ⚡ Fun fact: My mom is HP and my girl is linux of my life<3 
 -->
