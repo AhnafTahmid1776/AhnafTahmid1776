@@ -2,13 +2,14 @@
 
 
 Here are some ideas to get you started:
+<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="500" height="320" margin-bottom="20px" /></p>
 
 - 🔭 I’m currently working on Hardware Security
 - 🌱 I’m currently learning Hardware Security
 - 👯 I’m looking to collaborate on React.js
 - 🤔 I’m looking for help with Competitive Programming
 
-<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="500" height="320" margin-bottom="20px" /></p>
+
 
 - 💬 Ask me about web development
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
