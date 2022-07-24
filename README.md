@@ -1,8 +1,12 @@
+<p><img align="centre" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" /></p>
+
+
+
 ### Here is what I am working on `{" "}` !👋
 
 
 Here are some ideas to get you started:
-<p><img align="centre" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" /></p>
+
 
 - 🔭 I’m currently working on Hardware Security
 - 🌱 I’m currently learning Hardware Security
