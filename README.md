@@ -1,4 +1,4 @@
-<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" margin-bottom="30px" /></p>
+<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="320" margin-bottom="30px" /></p>
 
 
 
