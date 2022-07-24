@@ -1,22 +1,13 @@
-<p><img align="centre" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" /></p>
-
-
-
 ### Here is what I am working on `{" "}` !👋
 
+<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" /></p>
 
-Here are some ideas to get you started:
+I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Programming , Research works and Writing posts.Presently trying to acquire the skills of problem solving😄
 
 
 - 🔭 I’m currently working on Hardware Security
-- 🌱 I’m currently learning Hardware Security
-- 👯 I’m looking to collaborate on React.js
-- 🤔 I’m looking for help with Competitive Programming
-
-
-
-- 💬 Ask me about web development
+- 💬 Actively using Python and C++
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Interested in Hardware Security and Software Development
 - ⚡ Fun fact: My mom is HP and my girl is linux of my life<3 
 -->
