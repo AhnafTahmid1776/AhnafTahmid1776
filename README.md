@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-<p><img align="right" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="500" height="320" margin-bottom="20px" /></p>
+<p><img align="centre" src="https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/giphy.gif" width="320" height="200" /></p>
 
 - 🔭 I’m currently working on Hardware Security
 - 🌱 I’m currently learning Hardware Security
