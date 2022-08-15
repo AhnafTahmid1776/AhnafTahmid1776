@@ -10,6 +10,5 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Progra
 - 🔭 I’m currently working on Hardware Security and AI
 - 💬 Actively using C++, Python and React
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
-- 😄 Interested in Hardware Security and Software Development
 - ⚡ Fun fact: My mom is HP and my girl is linux of my life<3 
 -->
