@@ -7,7 +7,7 @@
 I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Programming , Research works and Writing posts.Presently trying to acquire the skills of problem solving😄
 
 
-- 🔭 I’m currently working on Hardware Security
+- 🔭 I’m currently working on Hardware Security and AI
 - 💬 Actively using C++, Python and React
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
 - 😄 Interested in Hardware Security and Software Development
