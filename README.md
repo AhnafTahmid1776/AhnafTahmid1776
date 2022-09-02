@@ -10,5 +10,8 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Progra
 - 🔭 I’m currently working on Hardware Security and AI
 - 💬 Actively using C++, Python and React
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
-- ⚡ Fun fact: My mom is HP and my girl is linux of my life<3 
+- ⚡ Fun fact: Haan khush hain ab hum to
+               Tujhse kahan hum khafaa hain
+               Tune chuna hai woh rishta
+               Tere liye jo bana hai
 -->
