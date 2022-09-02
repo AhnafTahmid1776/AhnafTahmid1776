@@ -11,10 +11,10 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Progra
 - 💬 Actively using C++, Python and React
 - 📫 How to reach me: ahnaftahmidsaad.c@gmail.com
 - ⚡ Fun fact: <br>
- Ehsaan tera main maanu <br>
-               Tanha mujhe jo kiya hai <br>
-               Jo pyaar tera hai khoya <br>
-               Lagta hai khudse mila main
+ Ehsaan tera main maanu💔  <br>
+               Tanha mujhe jo kiya hai💔  <br>
+               Jo pyaar tera hai khoya💔  <br>
+               Lagta hai khudse mila main💔 
                
                
 -->
