@@ -4,7 +4,7 @@
 
 ### Here is what I am working on `{" "}` !👋
 
-I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Programming , Research works and Writing posts.Presently trying to acquire the skills of problem solving😄
+I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Competitive Programming ,DSA,AI/ML,Software Development, Research works and Writing posts.Presently trying to acquire the skills of problem solving😄
 
 
 - 🔭 I’m currently working on Hardware Security and AI
