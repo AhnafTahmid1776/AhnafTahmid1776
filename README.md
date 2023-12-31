@@ -36,6 +36,70 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        /* Flexbox styling for the content sections */
+        .content-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        /* Styling for each content section */
+        .content-section {
+            width: 45%; /* Adjust the width as needed */
+            margin: 10px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+
+        /* Responsive styling */
+        @media (max-width: 600px) {
+            .content-section {
+                width: 100%;
+            }
+        }
+    </style>
+    <h2>Happy New Year 2024! 🎉</h2>
+
+    <h4>Latest Technical Content</h4>
+
+    <!-- Flexbox container for content sections -->
+    <div class="content-container">
+
+        <!-- First content section -->
+        <div class="content-section">
+            <h3>3 Reasons why Linux is better than Windows?</h3>
+            <a href="video_link">
+                <img src="" alt="Thumbnail for First Technical Content">
+            </a>
+            <p>Description or additional information about your first technical content.</p>
+        </div>
+
+        <!-- Second content section -->
+        <div class="content-section">
+            <h3>5 quick tips if you want to level up your coding skill</h3>
+            <a href="video_link">
+                <img src="video_thumbnail_url" alt="Thumbnail for Second Technical Content">
+            </a>
+            <p>Description or additional information about your second technical content.</p>
+        </div>
 
 
 ## 📊 My Github Statistics
@@ -43,6 +107,5 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
  <p align="center">
     <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=AhnafTahmid1776&show_icons=true&locale=en"/></p>
 </p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  
 
