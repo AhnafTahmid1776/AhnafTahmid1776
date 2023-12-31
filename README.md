@@ -39,10 +39,8 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
 <p align="center">Happy New Year 2024! 🎉</p>
 
 ## Check my latest technical content
-
 ### 3 Reasons why Linux is better than Windows?
-<br>
-[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c2.jpg)](https://www.facebook.com/saad1776/videos/1290864214919673/)
+[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c1.jpg)](https://www.facebook.com/saad1776/videos/1290864214919673/)
 <br><br>
 🚀 Exploring the Tech Galaxy: 'Linux vs. Windows – Unveiling the Superior OS?' 🤔 Dive into the open-source revolution, unparalleled performance, and security fortress that set Linux apart. Discover why Linux might be your ultimate computing ally!
 
