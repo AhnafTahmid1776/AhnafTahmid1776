@@ -14,7 +14,7 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
 -->
   
   <h4>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</h4>
-<p><img src="https://komarev.com/ghpvc/?username=AhnafTahmid1776&label=Profile%20views&color=red&style=flat-square"> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AhnafTahmid1776&label=Profile%20views&color=red&style=flat-square"> </p>
 
 ## 🚀 Languages and Tools:
 
