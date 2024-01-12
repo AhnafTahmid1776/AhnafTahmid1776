@@ -40,13 +40,13 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
 
 ## Check my latest technical content
 ### 3 Reasons why Linux is better than Windows?
-[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c1.jpg)](https://www.facebook.com/saad1776/videos/1290864214919673/)
+[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c1.jpg)](https://youtu.be/uwAXHejh1qI?si=boz8MuBBV0Va0c0j)
 <br><br>
 🚀 Exploring the Tech Galaxy: 'Linux vs. Windows – Unveiling the Superior OS?' 🤔 Dive into the open-source revolution, unparalleled performance, and security fortress that set Linux apart. Discover why Linux might be your ultimate computing ally!
 
 <br><br><br>
 ### 5 quick tips if you want to level up your coding skill
-[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c2.jpg)](https://www.facebook.com/saad1776/videos/1290864214919673/)
+[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c2.jpg)](https://youtu.be/LIMRfm-Eu8U?si=4ict0TgNBC5Fqc11)
 <br><br>
 🚀 Elevate Your Coding skill! 
 🖥️ Here are 5 Quick Tips to Level Up Your Skills.
