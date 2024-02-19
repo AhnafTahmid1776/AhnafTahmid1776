@@ -36,20 +36,7 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/><br/><br/><br/>
 
-<h1 align="center"><b>Happy New Year 2024! 🎉</b></h1>
 
-## Check my latest technical content
-### 3 Reasons why Linux is better than Windows?
-[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c1.jpg)](https://youtu.be/uwAXHejh1qI?si=boz8MuBBV0Va0c0j)
-<br><br>
-🚀 Exploring the Tech Galaxy: 'Linux vs. Windows – Unveiling the Superior OS?' 🤔 Dive into the open-source revolution, unparalleled performance, and security fortress that set Linux apart. Discover why Linux might be your ultimate computing ally!
-
-<br><br><br>
-### 5 quick tips if you want to level up your coding skill
-[![Watch the video](https://github.com/AhnafTahmid1776/AhnafTahmid1776/blob/main/c2.jpg)](https://youtu.be/LIMRfm-Eu8U?si=4ict0TgNBC5Fqc11)
-<br><br>
-🚀 Elevate Your Coding skill! 
-🖥️ Here are 5 Quick Tips to Level Up Your Skills.
 
 
 
@@ -59,4 +46,3 @@ I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Compet
     <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=AhnafTahmid1776&show_icons=true&locale=en"/></p>
 </p>
   
---> [Facebook Technical Content Page](https://www.facebook.com/saad1776)
