@@ -4,7 +4,7 @@
 
 ### Here is what I am working on `{" "}` !👋
 
-I am Ahnaf Tahmid Saad, Founder MLMARS.org 😄
+I am Ahnaf Tahmid Saad, Founder @mlmars.org 😄
 
 
 - 🔭 I’m currently working on  ML/AI computer Vision
