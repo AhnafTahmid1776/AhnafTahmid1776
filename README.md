@@ -4,7 +4,7 @@
 
 ### Here is what I am working on `{" "}` !👋
 
-I am Ahnaf Tahmid Saad, An undergrad studying at dept of EEE,AUST.I enjoy Competitive Programming ,DSA,AI/ML,Software Development, Research works. Presently trying to acquire the skills of problem solving😄
+I am Ahnaf Tahmid Saad, Founder MLMARS.org 😄
 
 
 - 🔭 I’m currently working on  ML/AI computer Vision
